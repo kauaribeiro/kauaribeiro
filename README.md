@@ -1,0 +1,4 @@
+- 👋 olá meu nome é  @kauaribeiro
+- 👀 meu e-mail de contato é kaua.ribeiro@escola.pr.gov.br
+- :+1: estou interessado em aprender a programar novas linguagens
+- 💞️ estou aprendendo a programar rescentemente a linguagem de javascript e Scratch
